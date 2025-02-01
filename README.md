@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Programing since  2022<br>📚 I'm currently learning Back-End<br>🎯 Goals: Become full stuck developer by 2025<br>🎲 Fun fact: I like to travel</p>
+<p align="left">✨ Programing since  2022<br>📚 I'm currently learning Next.JS<br>🎯 Goals: Become senior developer by 2025<br>🎲 Fun fact: I like to travel</p>
 
 ###
 
